@@ -1,0 +1,20 @@
+{
+  "alphas": [
+    "alpha1_multiasset",
+    "alpha2_multiasset",
+    "alpha4_multiasset",
+    "alpha5_multiasset"
+  ],
+  "equal_weights": [
+    0.25,
+    0.25,
+    0.25,
+    0.25
+  ],
+  "vol_scaled_weights": [
+    0.3023331312733025,
+    0.23656660977159152,
+    0.23648065933317794,
+    0.22461959962192798
+  ]
+}

@@ -1,0 +1,2045 @@
+[
+  {
+    "ts": "2025-11-01T05:38:00",
+    "order_id": "alpha1_2025-11-01T05:38:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.91982586,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T05:39:00",
+    "order_id": "alpha1_2025-11-01T05:39:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.90438063,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T05:40:00",
+    "order_id": "alpha1_2025-11-01T05:40:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.86156927,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T05:42:00",
+    "order_id": "alpha1_2025-11-01T05:42:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.87957782,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T05:43:00",
+    "order_id": "alpha1_2025-11-01T05:43:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.91610396,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T05:44:00",
+    "order_id": "alpha1_2025-11-01T05:44:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.95735658,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T05:45:00",
+    "order_id": "alpha1_2025-11-01T05:45:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.00041714,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T05:46:00",
+    "order_id": "alpha1_2025-11-01T05:46:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.21447482,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T05:47:00",
+    "order_id": "alpha1_2025-11-01T05:47:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.17385364,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T05:48:00",
+    "order_id": "alpha1_2025-11-01T05:48:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.12265498,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T05:49:00",
+    "order_id": "alpha1_2025-11-01T05:49:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.04131839,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T05:50:00",
+    "order_id": "alpha1_2025-11-01T05:50:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.10288554,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T05:51:00",
+    "order_id": "alpha1_2025-11-01T05:51:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.21572632,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T05:52:00",
+    "order_id": "alpha1_2025-11-01T05:52:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.20433727,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T05:53:00",
+    "order_id": "alpha1_2025-11-01T05:53:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.12036363,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T05:55:00",
+    "order_id": "alpha1_2025-11-01T05:55:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.10298348,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T05:56:00",
+    "order_id": "alpha1_2025-11-01T05:56:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.17727173,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T05:57:00",
+    "order_id": "alpha1_2025-11-01T05:57:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.23156,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T05:58:00",
+    "order_id": "alpha1_2025-11-01T05:58:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.16504231,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T05:59:00",
+    "order_id": "alpha1_2025-11-01T05:59:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.18824683,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T06:00:00",
+    "order_id": "alpha1_2025-11-01T06:00:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.19990958,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T06:01:00",
+    "order_id": "alpha1_2025-11-01T06:01:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.2217675,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T06:02:00",
+    "order_id": "alpha1_2025-11-01T06:02:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.30886681,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T06:03:00",
+    "order_id": "alpha1_2025-11-01T06:03:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.33121519,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T06:04:00",
+    "order_id": "alpha1_2025-11-01T06:04:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.3990726,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T06:05:00",
+    "order_id": "alpha1_2025-11-01T06:05:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.40582712,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T06:06:00",
+    "order_id": "alpha1_2025-11-01T06:06:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.43472461,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T06:07:00",
+    "order_id": "alpha1_2025-11-01T06:07:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.49782187,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T06:08:00",
+    "order_id": "alpha1_2025-11-01T06:08:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.35217914,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T06:09:00",
+    "order_id": "alpha1_2025-11-01T06:09:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.320228,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T06:13:00",
+    "order_id": "alpha1_2025-11-01T06:13:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.33127733,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T06:15:00",
+    "order_id": "alpha1_2025-11-01T06:15:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.34151693,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T06:21:00",
+    "order_id": "alpha1_2025-11-01T06:21:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.36508459,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T06:24:00",
+    "order_id": "alpha1_2025-11-01T06:24:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.36977214,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T06:25:00",
+    "order_id": "alpha1_2025-11-01T06:25:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.35065128,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T06:28:00",
+    "order_id": "alpha1_2025-11-01T06:28:00",
+    "symbol": "SYM1",
+    "side": "BUY",
+    "qty": 1,
+    "price": 100.11804312,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T06:50:00",
+    "order_id": "alpha1_2025-11-01T06:50:00",
+    "symbol": "SYM1",
+    "side": "BUY",
+    "qty": 1,
+    "price": 99.97454255,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T06:51:00",
+    "order_id": "alpha1_2025-11-01T06:51:00",
+    "symbol": "SYM1",
+    "side": "BUY",
+    "qty": 1,
+    "price": 99.82975895,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T06:52:00",
+    "order_id": "alpha1_2025-11-01T06:52:00",
+    "symbol": "SYM1",
+    "side": "BUY",
+    "qty": 1,
+    "price": 99.69742285,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T06:53:00",
+    "order_id": "alpha1_2025-11-01T06:53:00",
+    "symbol": "SYM1",
+    "side": "BUY",
+    "qty": 1,
+    "price": 99.59764831,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T06:54:00",
+    "order_id": "alpha1_2025-11-01T06:54:00",
+    "symbol": "SYM1",
+    "side": "BUY",
+    "qty": 1,
+    "price": 99.63764572,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T06:55:00",
+    "order_id": "alpha1_2025-11-01T06:55:00",
+    "symbol": "SYM1",
+    "side": "BUY",
+    "qty": 1,
+    "price": 99.54705254,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T07:20:00",
+    "order_id": "alpha1_2025-11-01T07:20:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.38246861,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T07:21:00",
+    "order_id": "alpha1_2025-11-01T07:21:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.41813787,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T07:22:00",
+    "order_id": "alpha1_2025-11-01T07:22:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.564395,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T07:23:00",
+    "order_id": "alpha1_2025-11-01T07:23:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.44557813,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T07:24:00",
+    "order_id": "alpha1_2025-11-01T07:24:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.38163497,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T07:35:00",
+    "order_id": "alpha1_2025-11-01T07:35:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.51114066,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T07:36:00",
+    "order_id": "alpha1_2025-11-01T07:36:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.55256088,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T07:37:00",
+    "order_id": "alpha1_2025-11-01T07:37:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.45365654,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T08:10:00",
+    "order_id": "alpha1_2025-11-01T08:10:00",
+    "symbol": "SYM1",
+    "side": "BUY",
+    "qty": 1,
+    "price": 98.81972682,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T08:16:00",
+    "order_id": "alpha1_2025-11-01T08:16:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.05927327,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T08:17:00",
+    "order_id": "alpha1_2025-11-01T08:17:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.08120055,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T08:18:00",
+    "order_id": "alpha1_2025-11-01T08:18:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.04012837,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T08:19:00",
+    "order_id": "alpha1_2025-11-01T08:19:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.15070193,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T08:20:00",
+    "order_id": "alpha1_2025-11-01T08:20:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.19355614,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T08:21:00",
+    "order_id": "alpha1_2025-11-01T08:21:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.34705495,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T08:22:00",
+    "order_id": "alpha1_2025-11-01T08:22:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.36536923,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T08:23:00",
+    "order_id": "alpha1_2025-11-01T08:23:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.24298355,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T08:25:00",
+    "order_id": "alpha1_2025-11-01T08:25:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.27124629,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T08:26:00",
+    "order_id": "alpha1_2025-11-01T08:26:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.44352667,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T08:27:00",
+    "order_id": "alpha1_2025-11-01T08:27:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.42558373,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T08:28:00",
+    "order_id": "alpha1_2025-11-01T08:28:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.38728416,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T08:29:00",
+    "order_id": "alpha1_2025-11-01T08:29:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.53335551,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T08:30:00",
+    "order_id": "alpha1_2025-11-01T08:30:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.4227063,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T08:31:00",
+    "order_id": "alpha1_2025-11-01T08:31:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.33327833,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T08:32:00",
+    "order_id": "alpha1_2025-11-01T08:32:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.39757884,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T08:33:00",
+    "order_id": "alpha1_2025-11-01T08:33:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.35813806,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T08:34:00",
+    "order_id": "alpha1_2025-11-01T08:34:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.35762613,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T08:36:00",
+    "order_id": "alpha1_2025-11-01T08:36:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.37503059,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T08:37:00",
+    "order_id": "alpha1_2025-11-01T08:37:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.5157084,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T08:38:00",
+    "order_id": "alpha1_2025-11-01T08:38:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.52476236,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T08:39:00",
+    "order_id": "alpha1_2025-11-01T08:39:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.58912405,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T08:44:00",
+    "order_id": "alpha1_2025-11-01T08:44:00",
+    "symbol": "SYM1",
+    "side": "BUY",
+    "qty": 1,
+    "price": 99.18460242,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T08:45:00",
+    "order_id": "alpha1_2025-11-01T08:45:00",
+    "symbol": "SYM1",
+    "side": "BUY",
+    "qty": 1,
+    "price": 99.15117337,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T09:02:00",
+    "order_id": "alpha1_2025-11-01T09:02:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.33024631,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T09:03:00",
+    "order_id": "alpha1_2025-11-01T09:03:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.51783693,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T09:04:00",
+    "order_id": "alpha1_2025-11-01T09:04:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.43255526,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T09:05:00",
+    "order_id": "alpha1_2025-11-01T09:05:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.40383129,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T09:06:00",
+    "order_id": "alpha1_2025-11-01T09:06:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.25756026,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T09:09:00",
+    "order_id": "alpha1_2025-11-01T09:09:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.35058889,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T09:16:00",
+    "order_id": "alpha1_2025-11-01T09:16:00",
+    "symbol": "SYM1",
+    "side": "BUY",
+    "qty": 1,
+    "price": 98.8334911,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T09:18:00",
+    "order_id": "alpha1_2025-11-01T09:18:00",
+    "symbol": "SYM1",
+    "side": "BUY",
+    "qty": 1,
+    "price": 98.6481994,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T09:19:00",
+    "order_id": "alpha1_2025-11-01T09:19:00",
+    "symbol": "SYM1",
+    "side": "BUY",
+    "qty": 1,
+    "price": 98.50142153,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T09:31:00",
+    "order_id": "alpha1_2025-11-01T09:31:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 98.85900719,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T09:32:00",
+    "order_id": "alpha1_2025-11-01T09:32:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 98.90246206,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T09:33:00",
+    "order_id": "alpha1_2025-11-01T09:33:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 98.86486526,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T09:34:00",
+    "order_id": "alpha1_2025-11-01T09:34:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 98.85148965,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T09:43:00",
+    "order_id": "alpha1_2025-11-01T09:43:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 98.83038278,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T09:44:00",
+    "order_id": "alpha1_2025-11-01T09:44:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 98.83569566,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T09:45:00",
+    "order_id": "alpha1_2025-11-01T09:45:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 98.8357041,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T09:49:00",
+    "order_id": "alpha1_2025-11-01T09:49:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 98.99470635,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T09:50:00",
+    "order_id": "alpha1_2025-11-01T09:50:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.15196317,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T09:51:00",
+    "order_id": "alpha1_2025-11-01T09:51:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.19052853,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T09:52:00",
+    "order_id": "alpha1_2025-11-01T09:52:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.11426097,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T09:53:00",
+    "order_id": "alpha1_2025-11-01T09:53:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.00307544,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T09:54:00",
+    "order_id": "alpha1_2025-11-01T09:54:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.12213018,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T09:55:00",
+    "order_id": "alpha1_2025-11-01T09:55:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.14839196,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T09:56:00",
+    "order_id": "alpha1_2025-11-01T09:56:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.1963823,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T09:57:00",
+    "order_id": "alpha1_2025-11-01T09:57:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.02201093,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T09:58:00",
+    "order_id": "alpha1_2025-11-01T09:58:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.1147084,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T09:59:00",
+    "order_id": "alpha1_2025-11-01T09:59:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.16012771,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T10:08:00",
+    "order_id": "alpha1_2025-11-01T10:08:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.1312068,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T10:09:00",
+    "order_id": "alpha1_2025-11-01T10:09:00",
+    "symbol": "SYM1",
+    "side": "BUY",
+    "qty": 1,
+    "price": 98.97359342,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T10:10:00",
+    "order_id": "alpha1_2025-11-01T10:10:00",
+    "symbol": "SYM1",
+    "side": "BUY",
+    "qty": 1,
+    "price": 98.94989655,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T10:14:00",
+    "order_id": "alpha1_2025-11-01T10:14:00",
+    "symbol": "SYM1",
+    "side": "BUY",
+    "qty": 1,
+    "price": 98.78420075,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T10:25:00",
+    "order_id": "alpha1_2025-11-01T10:25:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.00761671,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T10:26:00",
+    "order_id": "alpha1_2025-11-01T10:26:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.12529903,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T10:27:00",
+    "order_id": "alpha1_2025-11-01T10:27:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.16918574,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T10:28:00",
+    "order_id": "alpha1_2025-11-01T10:28:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.343492,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T10:29:00",
+    "order_id": "alpha1_2025-11-01T10:29:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.38736936,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T10:30:00",
+    "order_id": "alpha1_2025-11-01T10:30:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.47012678,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T10:31:00",
+    "order_id": "alpha1_2025-11-01T10:31:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.44048451,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T10:32:00",
+    "order_id": "alpha1_2025-11-01T10:32:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.44713577,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T10:33:00",
+    "order_id": "alpha1_2025-11-01T10:33:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.37742826,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T10:34:00",
+    "order_id": "alpha1_2025-11-01T10:34:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.47633717,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T10:35:00",
+    "order_id": "alpha1_2025-11-01T10:35:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.35856572,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T10:36:00",
+    "order_id": "alpha1_2025-11-01T10:36:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.43676164,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T10:37:00",
+    "order_id": "alpha1_2025-11-01T10:37:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.41770607,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T10:38:00",
+    "order_id": "alpha1_2025-11-01T10:38:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.53477221,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T10:39:00",
+    "order_id": "alpha1_2025-11-01T10:39:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.60982157,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T10:40:00",
+    "order_id": "alpha1_2025-11-01T10:40:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.79179515,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T10:41:00",
+    "order_id": "alpha1_2025-11-01T10:41:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.86483608,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T10:42:00",
+    "order_id": "alpha1_2025-11-01T10:42:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.70771066,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T10:43:00",
+    "order_id": "alpha1_2025-11-01T10:43:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.70101869,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T10:44:00",
+    "order_id": "alpha1_2025-11-01T10:44:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.58387657,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T10:46:00",
+    "order_id": "alpha1_2025-11-01T10:46:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.68312178,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T10:47:00",
+    "order_id": "alpha1_2025-11-01T10:47:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.74684329,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T10:48:00",
+    "order_id": "alpha1_2025-11-01T10:48:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.67698519,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T11:07:00",
+    "order_id": "alpha1_2025-11-01T11:07:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.51391856,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T11:09:00",
+    "order_id": "alpha1_2025-11-01T11:09:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.53818842,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T11:10:00",
+    "order_id": "alpha1_2025-11-01T11:10:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.64498215,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T11:11:00",
+    "order_id": "alpha1_2025-11-01T11:11:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.66825831,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T11:12:00",
+    "order_id": "alpha1_2025-11-01T11:12:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.69168668,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T11:13:00",
+    "order_id": "alpha1_2025-11-01T11:13:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.71870748,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T11:14:00",
+    "order_id": "alpha1_2025-11-01T11:14:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.63241613,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T11:15:00",
+    "order_id": "alpha1_2025-11-01T11:15:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.61767063,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T11:16:00",
+    "order_id": "alpha1_2025-11-01T11:16:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.60242601,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T11:17:00",
+    "order_id": "alpha1_2025-11-01T11:17:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.64074622,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T11:18:00",
+    "order_id": "alpha1_2025-11-01T11:18:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.74067866,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T11:19:00",
+    "order_id": "alpha1_2025-11-01T11:19:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.63487798,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T11:20:00",
+    "order_id": "alpha1_2025-11-01T11:20:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.62238332,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T11:21:00",
+    "order_id": "alpha1_2025-11-01T11:21:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.7704548,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T11:22:00",
+    "order_id": "alpha1_2025-11-01T11:22:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.69613316,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T11:25:00",
+    "order_id": "alpha1_2025-11-01T11:25:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.71856608,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T11:26:00",
+    "order_id": "alpha1_2025-11-01T11:26:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.71970811,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T11:27:00",
+    "order_id": "alpha1_2025-11-01T11:27:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.85253772,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T11:28:00",
+    "order_id": "alpha1_2025-11-01T11:28:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.93817428,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T11:29:00",
+    "order_id": "alpha1_2025-11-01T11:29:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.0223142,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T11:30:00",
+    "order_id": "alpha1_2025-11-01T11:30:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.07769814,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T11:31:00",
+    "order_id": "alpha1_2025-11-01T11:31:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.31034707,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T11:32:00",
+    "order_id": "alpha1_2025-11-01T11:32:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.28984116,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T11:33:00",
+    "order_id": "alpha1_2025-11-01T11:33:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.0895891,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T11:34:00",
+    "order_id": "alpha1_2025-11-01T11:34:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.24993433,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T11:35:00",
+    "order_id": "alpha1_2025-11-01T11:35:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.20418727,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T11:36:00",
+    "order_id": "alpha1_2025-11-01T11:36:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.21496992,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T11:37:00",
+    "order_id": "alpha1_2025-11-01T11:37:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.34585951,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T11:38:00",
+    "order_id": "alpha1_2025-11-01T11:38:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 100.18571367,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T11:46:00",
+    "order_id": "alpha1_2025-11-01T11:46:00",
+    "symbol": "SYM1",
+    "side": "BUY",
+    "qty": 1,
+    "price": 99.6726598,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T12:00:00",
+    "order_id": "alpha1_2025-11-01T12:00:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.8391052,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T12:01:00",
+    "order_id": "alpha1_2025-11-01T12:01:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.81253461,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T12:02:00",
+    "order_id": "alpha1_2025-11-01T12:02:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.80078627,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T12:03:00",
+    "order_id": "alpha1_2025-11-01T12:03:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.8836967,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T12:06:00",
+    "order_id": "alpha1_2025-11-01T12:06:00",
+    "symbol": "SYM1",
+    "side": "BUY",
+    "qty": 1,
+    "price": 99.50621997,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T12:07:00",
+    "order_id": "alpha1_2025-11-01T12:07:00",
+    "symbol": "SYM1",
+    "side": "BUY",
+    "qty": 1,
+    "price": 99.27274168,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T12:08:00",
+    "order_id": "alpha1_2025-11-01T12:08:00",
+    "symbol": "SYM1",
+    "side": "BUY",
+    "qty": 1,
+    "price": 99.20488132,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T12:45:00",
+    "order_id": "alpha1_2025-11-01T12:45:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.1091049,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T12:46:00",
+    "order_id": "alpha1_2025-11-01T12:46:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.09599771,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T12:47:00",
+    "order_id": "alpha1_2025-11-01T12:47:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.13085786,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T12:48:00",
+    "order_id": "alpha1_2025-11-01T12:48:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.32586156,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T12:49:00",
+    "order_id": "alpha1_2025-11-01T12:49:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.53345577,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T12:50:00",
+    "order_id": "alpha1_2025-11-01T12:50:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.54039041,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T12:51:00",
+    "order_id": "alpha1_2025-11-01T12:51:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.55640146,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T12:52:00",
+    "order_id": "alpha1_2025-11-01T12:52:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.66397167,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T12:53:00",
+    "order_id": "alpha1_2025-11-01T12:53:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.57944785,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T12:54:00",
+    "order_id": "alpha1_2025-11-01T12:54:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.61273823,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T12:55:00",
+    "order_id": "alpha1_2025-11-01T12:55:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.61015324,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T12:56:00",
+    "order_id": "alpha1_2025-11-01T12:56:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.64152836,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T12:57:00",
+    "order_id": "alpha1_2025-11-01T12:57:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.55823315,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T13:15:00",
+    "order_id": "alpha1_2025-11-01T13:15:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.47794954,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T13:16:00",
+    "order_id": "alpha1_2025-11-01T13:16:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.50024636,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T13:17:00",
+    "order_id": "alpha1_2025-11-01T13:17:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.64349615,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T13:18:00",
+    "order_id": "alpha1_2025-11-01T13:18:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.65264359,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T13:19:00",
+    "order_id": "alpha1_2025-11-01T13:19:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.71069226,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T13:20:00",
+    "order_id": "alpha1_2025-11-01T13:20:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.70501678,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T13:21:00",
+    "order_id": "alpha1_2025-11-01T13:21:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.68798454,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T13:22:00",
+    "order_id": "alpha1_2025-11-01T13:22:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.61007528,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T13:23:00",
+    "order_id": "alpha1_2025-11-01T13:23:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.6530839,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T13:24:00",
+    "order_id": "alpha1_2025-11-01T13:24:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.56797276,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T13:25:00",
+    "order_id": "alpha1_2025-11-01T13:25:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.634498,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T13:26:00",
+    "order_id": "alpha1_2025-11-01T13:26:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.74297244,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T13:27:00",
+    "order_id": "alpha1_2025-11-01T13:27:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.77960725,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T13:28:00",
+    "order_id": "alpha1_2025-11-01T13:28:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.75099669,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T13:29:00",
+    "order_id": "alpha1_2025-11-01T13:29:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.79637055,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T13:30:00",
+    "order_id": "alpha1_2025-11-01T13:30:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.76551868,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T13:31:00",
+    "order_id": "alpha1_2025-11-01T13:31:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.85902661,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T13:34:00",
+    "order_id": "alpha1_2025-11-01T13:34:00",
+    "symbol": "SYM1",
+    "side": "BUY",
+    "qty": 1,
+    "price": 99.54294516,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T13:35:00",
+    "order_id": "alpha1_2025-11-01T13:35:00",
+    "symbol": "SYM1",
+    "side": "BUY",
+    "qty": 1,
+    "price": 99.39336432,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T13:40:00",
+    "order_id": "alpha1_2025-11-01T13:40:00",
+    "symbol": "SYM1",
+    "side": "BUY",
+    "qty": 1,
+    "price": 99.10047142,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T13:41:00",
+    "order_id": "alpha1_2025-11-01T13:41:00",
+    "symbol": "SYM1",
+    "side": "BUY",
+    "qty": 1,
+    "price": 99.04609469,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T13:55:00",
+    "order_id": "alpha1_2025-11-01T13:55:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.40267617,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T13:56:00",
+    "order_id": "alpha1_2025-11-01T13:56:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.30570972,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T13:58:00",
+    "order_id": "alpha1_2025-11-01T13:58:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.35049619,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T13:59:00",
+    "order_id": "alpha1_2025-11-01T13:59:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.33137136,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T14:00:00",
+    "order_id": "alpha1_2025-11-01T14:00:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.4716833,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T14:01:00",
+    "order_id": "alpha1_2025-11-01T14:01:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.42745186,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T14:02:00",
+    "order_id": "alpha1_2025-11-01T14:02:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.57288367,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T14:03:00",
+    "order_id": "alpha1_2025-11-01T14:03:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.58602567,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T14:04:00",
+    "order_id": "alpha1_2025-11-01T14:04:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.61183564,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T14:05:00",
+    "order_id": "alpha1_2025-11-01T14:05:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.76822921,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T14:06:00",
+    "order_id": "alpha1_2025-11-01T14:06:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.73207025,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T14:07:00",
+    "order_id": "alpha1_2025-11-01T14:07:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.6380051,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T14:08:00",
+    "order_id": "alpha1_2025-11-01T14:08:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.5931711,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T14:09:00",
+    "order_id": "alpha1_2025-11-01T14:09:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.63838188,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T14:13:00",
+    "order_id": "alpha1_2025-11-01T14:13:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.60647316,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T14:16:00",
+    "order_id": "alpha1_2025-11-01T14:16:00",
+    "symbol": "SYM1",
+    "side": "BUY",
+    "qty": 1,
+    "price": 99.21915668,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T14:17:00",
+    "order_id": "alpha1_2025-11-01T14:17:00",
+    "symbol": "SYM1",
+    "side": "BUY",
+    "qty": 1,
+    "price": 99.13649242,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T14:29:00",
+    "order_id": "alpha1_2025-11-01T14:29:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.38656154,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T14:30:00",
+    "order_id": "alpha1_2025-11-01T14:30:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.37785647,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T14:31:00",
+    "order_id": "alpha1_2025-11-01T14:31:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.34716351,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T14:32:00",
+    "order_id": "alpha1_2025-11-01T14:32:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 99.27184842,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T14:51:00",
+    "order_id": "alpha1_2025-11-01T14:51:00",
+    "symbol": "SYM1",
+    "side": "BUY",
+    "qty": 1,
+    "price": 98.8237342,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T14:57:00",
+    "order_id": "alpha1_2025-11-01T14:57:00",
+    "symbol": "SYM1",
+    "side": "BUY",
+    "qty": 1,
+    "price": 98.73657099,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T14:58:00",
+    "order_id": "alpha1_2025-11-01T14:58:00",
+    "symbol": "SYM1",
+    "side": "BUY",
+    "qty": 1,
+    "price": 98.7071784,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T14:59:00",
+    "order_id": "alpha1_2025-11-01T14:59:00",
+    "symbol": "SYM1",
+    "side": "BUY",
+    "qty": 1,
+    "price": 98.5999115,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T15:08:00",
+    "order_id": "alpha1_2025-11-01T15:08:00",
+    "symbol": "SYM1",
+    "side": "SELL",
+    "qty": 1,
+    "price": 98.84040526,
+    "fill_type": "sim"
+  },
+  {
+    "ts": "2025-11-01T15:15:00",
+    "order_id": "alpha1_2025-11-01T15:15:00",
+    "symbol": "SYM1",
+    "side": "BUY",
+    "qty": 1,
+    "price": 98.47929278,
+    "fill_type": "sim"
+  }
+]

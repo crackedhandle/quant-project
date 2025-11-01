@@ -1,0 +1,76 @@
+{
+  "final_metrics": {
+    "total_return": -0.0493165161246381,
+    "volatility": 0.009765794767622118,
+    "sharpe_ratio": -8.016504972631314,
+    "max_drawdown": -12.932128922453735
+  },
+  "per_alpha_metrics": {
+    "alpha1_meanrev": {
+      "error": "no pnl or (signal+close) columns found"
+    },
+    "alpha1_multiasset": {
+      "final_cum_pnl": -0.10558644363153921,
+      "volatility": 0.012316419089903214,
+      "sharpe_ratio": -13.608929817813838,
+      "max_drawdown": 0.0
+    },
+    "alpha2_momentum": {
+      "error": "no pnl or (signal+close) columns found"
+    },
+    "alpha2_multiasset": {
+      "final_cum_pnl": -0.05002453687354261,
+      "volatility": 0.01574043586759757,
+      "sharpe_ratio": -5.045062988034333,
+      "max_drawdown": 0.0
+    },
+    "alpha3_single_timeframe": {
+      "error": "no pnl or (signal+close) columns found"
+    },
+    "alpha3_single_timeframe.csv": {
+      "error": "no pnl or (signal+close) columns found"
+    },
+    "alpha4_multiasset": {
+      "final_cum_pnl": -0.049862232796132,
+      "volatility": 0.015746156831702864,
+      "sharpe_ratio": -5.026867287160404,
+      "max_drawdown": 0.0
+    },
+    "alpha5_multi_timeframe": {
+      "error": "no pnl or (signal+close) columns found"
+    },
+    "alpha5_multiasset": {
+      "final_cum_pnl": 0.008207148802660998,
+      "volatility": 0.016577634168132505,
+      "sharpe_ratio": 0.7859049542720842,
+      "max_drawdown": -1.5694459346831282
+    },
+    "alpha_correlation": {
+      "error": "no pnl or (signal+close) columns found"
+    }
+  },
+  "portfolio_weights": {
+    "alphas": [
+      "alpha1_multiasset",
+      "alpha2_multiasset",
+      "alpha4_multiasset",
+      "alpha5_multiasset"
+    ],
+    "equal_weights": [
+      0.25,
+      0.25,
+      0.25,
+      0.25
+    ],
+    "vol_scaled_weights": [
+      0.3023331312733025,
+      0.23656660977159152,
+      0.23648065933317794,
+      0.22461959962192798
+    ]
+  },
+  "portfolio_final": {
+    "equal_final_cum": -0.0493165161246382,
+    "vol_scaled_final_cum": -0.0537043824260656
+  }
+}

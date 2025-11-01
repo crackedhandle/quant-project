@@ -1,0 +1,9 @@
+{
+  "alpha1_meanrev_pnl": -0.008610252660842366,
+  "alpha2_momentum_pnl": 0.011204824165922278,
+  "alpha3_breakout_error": "Data must be 1-dimensional, got ndarray of shape (600, 6) instead",
+  "alpha4_multiasset_pnl": 0.021058423375949653,
+  "alpha5_volatility_error": "Data must be 1-dimensional, got ndarray of shape (600, 6) instead",
+  "total_portfolio_pnl": 0.023652994881029565,
+  "_signals_csv": "results\\signals_snapshot.csv"
+}

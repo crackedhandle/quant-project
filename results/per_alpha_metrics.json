@@ -1,0 +1,44 @@
+{
+  "alpha1_meanrev": {
+    "error": "no pnl or (signal+close) columns found"
+  },
+  "alpha1_multiasset": {
+    "final_cum_pnl": -0.10558644363153921,
+    "volatility": 0.012316419089903214,
+    "sharpe_ratio": -13.608929817813838,
+    "max_drawdown": 0.0
+  },
+  "alpha2_momentum": {
+    "error": "no pnl or (signal+close) columns found"
+  },
+  "alpha2_multiasset": {
+    "final_cum_pnl": -0.05002453687354261,
+    "volatility": 0.01574043586759757,
+    "sharpe_ratio": -5.045062988034333,
+    "max_drawdown": 0.0
+  },
+  "alpha3_single_timeframe": {
+    "error": "no pnl or (signal+close) columns found"
+  },
+  "alpha3_single_timeframe.csv": {
+    "error": "no pnl or (signal+close) columns found"
+  },
+  "alpha4_multiasset": {
+    "final_cum_pnl": -0.049862232796132,
+    "volatility": 0.015746156831702864,
+    "sharpe_ratio": -5.026867287160404,
+    "max_drawdown": 0.0
+  },
+  "alpha5_multi_timeframe": {
+    "error": "no pnl or (signal+close) columns found"
+  },
+  "alpha5_multiasset": {
+    "final_cum_pnl": 0.008207148802660998,
+    "volatility": 0.016577634168132505,
+    "sharpe_ratio": 0.7859049542720842,
+    "max_drawdown": -1.5694459346831282
+  },
+  "alpha_correlation": {
+    "error": "no pnl or (signal+close) columns found"
+  }
+}
