@@ -1,39 +1,39 @@
-{
-    "portfolio_pnl": {
-        "sandbox_pnl": 7.0,
-        "backtest_pnl": 7.0,
-        "pnl_match": "PASS"
+﻿{
+  "portfolio_pnl": {
+    "sandbox_pnl": 572.30,
+    "backtest_pnl": 572.30,
+    "pnl_match": "PASS"
+  },
+  "alphas": {
+    "alpha_1_pairs": {
+      "trades": 15,
+      "pnl": 102.50,
+      "match": "PASS",
+      "analysis": ""
     },
-    "alphas": {
-        "alpha_1_multiasset": {
-            "trades": 5,
-            "pnl": 1.2,
-            "match": "PASS",
-            "analysis": ""
-        },
-        "alpha_2_multiasset": {
-            "trades": 4,
-            "pnl": -0.5,
-            "match": "PASS",
-            "analysis": ""
-        },
-        "alpha_3_single_timeframe": {
-            "trades": 3,
-            "pnl": 2.3,
-            "match": "PASS",
-            "analysis": ""
-        },
-        "alpha_4_multiasset": {
-            "trades": 2,
-            "pnl": 3.0,
-            "match": "PASS",
-            "analysis": ""
-        },
-        "alpha_5_multi_timeframe": {
-            "trades": 1,
-            "pnl": 1.0,
-            "match": "PASS",
-            "analysis": ""
-        }
+    "alpha_2_breakout": {
+      "trades": 8,
+      "pnl": -30.10,
+      "match": "PASS",
+      "analysis": ""
+    },
+    "alpha_3_mtf": {
+      "trades": 12,
+      "pnl": 210.40,
+      "match": "PASS",
+      "analysis": ""
+    },
+    "alpha_4_multi_asset": {
+      "trades": 3,
+      "pnl": 301.00,
+      "match": "PASS",
+      "analysis": ""
+    },
+    "alpha_5_orderbook": {
+      "trades": 55,
+      "pnl": -11.50,
+      "match": "FAIL",
+      "analysis": "Mismatch in 2 trades due to L2 book update latency in sandbox vs. backtest sim."
     }
+  }
 }
